@@ -23,4 +23,3 @@ Inspired by an exercise created by a professor Della Paolera in Argentina
 
 ~~~~ I solved this query by calculations with the Pythagoras theorem. I updated the darts table with the scores calculated by the Pythagoras theorem. The query correctly assigned the scores to the darts table based on the coordinates of each dart throw.
 
-*****
