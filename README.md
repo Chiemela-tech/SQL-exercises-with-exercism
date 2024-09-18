@@ -14,3 +14,7 @@
 5. Leap year
 
 6. Rain drops
+
+7. Resistant color
+
+8. Resistant color duo
