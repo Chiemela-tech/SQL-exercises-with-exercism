@@ -18,3 +18,5 @@
 7. Resistant color
 
 8. Resistant color duo
+
+9. Two-fer
