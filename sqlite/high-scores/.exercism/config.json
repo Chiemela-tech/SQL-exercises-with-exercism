@@ -1,0 +1,22 @@
+{
+  "authors": [
+    "glennj"
+  ],
+  "files": {
+    "solution": [
+      "high-scores.sql"
+    ],
+    "test": [
+      "high-scores_test.sql"
+    ],
+    "example": [
+      ".meta/example.sql"
+    ],
+    "editor": [
+      "data_results.csv",
+      "data_scores.csv"
+    ]
+  },
+  "blurb": "Manage a player's High Score list.",
+  "source": "Tribute to the eighties' arcade game Frogger"
+}
