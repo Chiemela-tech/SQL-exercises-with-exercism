@@ -20,3 +20,23 @@
 8. Resistant color duo
 
 9. Two-fer
+
+10. Allergies
+
+11. Bob
+
+12. Eliud's Eggs
+
+13. Meetup
+
+14. Nucleotide Count
+
+15. Armstrong Numbers
+
+16. Collatz Conjecture
+
+17. High Scores
+
+18. Isogram
+
+19. Luhn
