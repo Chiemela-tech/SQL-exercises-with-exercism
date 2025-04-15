@@ -1,7 +1,7 @@
 -- Setup test table and read in student solution:
 .read ./test_setup.sql
 
--- Test cases:
+-- Test cases of meetup:
 -- Note: the strings below may contain literal tab, newline, carriage returns.
 
 INSERT INTO tests (name, uuid,
